@@ -12,7 +12,7 @@ export default function Quiz() {
                   Trivia Quiz:
                 </h1>
                 <p className="leading-relaxed mb-3 text-gray-800 ">
-                  Trivia quizzes are designed to test participants' knowledge on
+                  Trivia quizzes are designed to test participants knowledge on
                   a wide range of topics, including history, pop culture,
                   science, literature, and more. These quizzes often consist of
                   multiple-choice questions or short-answer questions,
@@ -77,7 +77,7 @@ export default function Quiz() {
                   Personality Quiz:
                 </h1>
                 <p className="leading-relaxed mb-3 text-gray-800 ">
-                  Personality quizzes are aimed at assessing individuals'
+                  Personality quizzes are aimed at assessing individuals
                   traits, characteristics, preferences, and behavior patterns.
                   These quizzes typically present participants with a series of
                   questions or scenarios and analyze their responses to provide
@@ -147,7 +147,7 @@ export default function Quiz() {
                   assess comprehension of academic subjects, concepts, and
                   skills. These quizzes are commonly used in classrooms, online
                   courses, and educational websites to supplement traditional
-                  teaching methods and evaluate students' understanding of
+                  teaching methods and evaluate students understanding of
                   course material. Educational quizzes cover a wide range of
                   subjects, including mathematics, science, language arts,
                   history, and more. They can feature different question formats

@@ -75,7 +75,7 @@ export default function Todo() {
             Kanban boards are visual task management tools that use columns and
             cards to represent workflow stages and individual tasks. Tasks are
             represented as cards that move across columns representing different
-            stages of completion, such as "To-Do," "In Progress," and "Done."
+            stages of completion, such as To-Do, In Progress, and Done.
           </p>
           <a
             href="#"
